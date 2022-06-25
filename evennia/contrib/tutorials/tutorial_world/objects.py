@@ -1008,7 +1008,7 @@ WEAPON_PROTOTYPES = {
         "prototype_parent": "weapon",
         "key": "Rusty sword",
         "aliases": ["sword"],
-        "desc": "A rusty shortsword. It has a leather-wrapped handle covered i food grease.",
+        "desc": "A rusty shortsword. It has a leather-wrapped handle covered in food grease.",
         "hit": 0.3,
         "damage": 5,
         "parry": 0.5,
